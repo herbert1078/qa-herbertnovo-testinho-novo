@@ -1,0 +1,13 @@
+node_modules/
+cypress/screenshots/
+cypress/videos/
+mochawesome-report/
+playwright-report/
+test-results/
+allure-results/
+results/
+target/
+__pycache__/
+.venv/
+.DS_Store
+.env
