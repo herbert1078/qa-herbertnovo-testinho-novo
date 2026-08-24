@@ -1,0 +1,11 @@
+{
+  "usuarioValido": {
+    "email": "meu-email@teste.com",
+    "senha": "121212"
+  },
+  "mensagens": {
+    "loginSucesso": "Login realizado",
+    "emailInvalido": "E-mail inválido.",
+    "senhaInvalida": "Senha inválida."
+  }
+}
